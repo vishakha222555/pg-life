@@ -6,6 +6,6 @@
 - Entire web-app is fully responsive and is operational from any device.
 - Tech Stack:- HTML, CSS, Bootstrap 5, Javascript, AJAX, PHP, MySQL.
 - This web app is hosted online at: https://pglife-website.000webhostapp.com/
-- https://ankit-saha-iiitbbsr.github.io/pglife/
+ https://vishakha222555.github.io/pg-life/
 - Live hosting link may show warning- 'Deceptive Website' continue by clicking on 'Details'
 and 'visit this unsafe site'.
